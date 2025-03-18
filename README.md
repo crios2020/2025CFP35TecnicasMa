@@ -16,3 +16,6 @@ Materiales:
             github:     https://github.com/crios2020/2025CFP35TecnicasMa
             codeshare:  https://codeshare.io/crios2020  
             wsp:        https://chat.whatsapp.com/DzT9QOl2N2z6Wg7EDTg2T4A
+
+Software:
+            VSCode:     https://code.visualstudio.com/
